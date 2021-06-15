@@ -33,25 +33,25 @@
       "animesRecientes": [
         {
           "portada": {
-            "clase": ".anime__sidebar__comment__item__pic.listadohome > img",
-            "atributo": "src"
+            "clase": ".col-lg-3.col-md-6.col-sm-6 > .anime__item > a > div",
+            "atributo": "data-setbg"
           }
         },
         {
           "titulo": {
-            "clase": "h5",
+            "clase": ".col-lg-3.col-md-6.col-sm-6 > .anime__item > .anime__item__text > h5 > a",
             "atributo": ""
           }
         },
         {
           "tipo": {
-            "clase": "h6",
+            "clase": ".col-lg-3.col-md-6.col-sm-6 > .anime__item > .anime__item__text > ul > .anime",
             "atributo": ""
           }
         },
         {
           "enlace": {
-            "clase": "",
+            "clase": ".col-lg-3.col-md-6.col-sm-6 > .anime__item > .anime__item__text > h5 > a",
             "atributo": "href"
           }
         }
