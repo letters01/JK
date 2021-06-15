@@ -1,0 +1,19 @@
+{
+  "pagina":"https://jkanime.net",
+  "portadas": {
+    "clase": ".anime__sidebar__comment__item__pic.listadohome > img",
+    "atributo": "src"
+  },
+  "titulos": {
+    "clase": "h5",
+    "atributo": ""
+  },
+  "numEps": {
+    "clase": "h6",
+    "atributo": ""
+  },
+  "enlaces": {
+    "clase": "",
+    "attributo": "href"
+  }
+}
