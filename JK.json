@@ -48,6 +48,12 @@
             "clase": "h6",
             "atributo": ""
           }
+        },
+        {
+          "enlace": {
+            "clase": "",
+            "atributo": "href"
+          }
         }
       ]
     }
